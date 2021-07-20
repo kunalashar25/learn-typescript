@@ -27,3 +27,22 @@ const person3: {
   Type '{ name: string; age: number; }' is not assignable to type '{ name: string; }'.
   Object literal may only specify known properties, and 'age' does not exist in type '{ name: string; }'
  */
+
+// Nested Object example with types
+const product: {
+	id: string;
+	price: number;
+	tags: string[];
+	details: {
+		title: string;
+		description: string;
+	};
+} = {
+	id: 'abc1',
+	price: 12.99,
+	tags: ['great-offer', 'hot-and-new'],
+	details: {
+		title: 'Red Carpet',
+		description: 'A great carpet - almost brand-new!',
+	},
+};
