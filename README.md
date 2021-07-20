@@ -31,4 +31,5 @@ I have created this repo as a part of self-learning and development activity by 
 -   [Working with number, strings, and booleans](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/working_with_number_strings_booleans)
 -   [Object Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/object_types)
 -   [Array Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/array_types)
+-   [Tuple Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/tuple_types)
 </details>
