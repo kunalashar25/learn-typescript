@@ -1,0 +1,27 @@
+What is Typescript?
+    • Typescript is a Javascript superset, it means that it is building up on JS.
+    • It takes JS language and adds new features and advantages to it.
+    • It makes writing JS code more easier and more powerful.
+    • Disadvantage:
+        ◦ TS can't be executed by JS environments like browsers.
+        ◦ Environment where we can run JS, they don't support TS.
+    • Why to use TS then?
+        ◦ TS is a programming langugae but also a tool.
+        ◦ It is a powerful compiler which we run over our code and it compiles TS code into JS code.
+        ◦ It adds types.
+        ◦ Helps to identify code errors at compile time rather than at runtime.
+
+Refer /concept_images/getting_started/what_is_typescript.png
+
+Questions:
+    • How can TS add new feature if end result is regular JS?
+        → TS will compile the code to JS workarounds
+        → Would create a simpler sturcture rather than us writing complex logic.
+
+Refer /concept_images/getting_started/why_typescript.png
+
+
+Bullets for use
+◦ 
+• 
+→
