@@ -1,4 +1,21 @@
 {
+  "name": "learn-typescript",
+  "description": "This repo will cover all the concepts required to learn Typescript from the scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalashar25/learn-typescript.git"
+  },
+  "author": "kunal.ashar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalashar25/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/kunalashar25/learn-typescript#readme",
   "devDependencies": {
     "typescript": "^4.3.5"
   }
