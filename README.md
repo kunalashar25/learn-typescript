@@ -16,6 +16,6 @@ I have created this repo as a part of self-learning and development activity by 
 
 #### List of topics coverd under this section:
 
-- [Intro to Typescript](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/intro_to_typescript.txt)
-- [Using Typescript for First Time](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/using_typescript/)
+- [Intro to Typescript](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/intro_to_ts/intro_to_typescript.txt)
+- [Convert JS code to TS code](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/using_typescript)
 </details>
