@@ -4,6 +4,11 @@ This repo will cover all the concepts required to learn Typescript from the scra
 
 I have created this repo as a part of self-learning and development activity by referring the Udemy Course - [Understanding Typescript - 2021 Edition](https://www.udemy.com/course/understanding-typescript)
 
+## Project Structure
+
+- `language_fundamentals` → Minute details with examples on each and every topic in typescript
+- `concept_images` → Structure images for reference
+
 ### 1. Getting Started
 
 <details>
@@ -12,4 +17,5 @@ I have created this repo as a part of self-learning and development activity by 
 #### List of topics coverd under this section:
 
 - [Intro to Typescript](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/intro_to_typescript.txt)
+- [Using Typescript for First Time](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/using_typescript/)
 </details>
