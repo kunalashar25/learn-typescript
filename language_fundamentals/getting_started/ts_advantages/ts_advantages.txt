@@ -1,0 +1,6 @@
+TypeScritp Adds:
+    • Types
+    • Next-Gen JS features(compiled for older browsers)
+    • Interfaces and Generics
+    • Meta programming features like decorators
+    • Rich Configuration Options

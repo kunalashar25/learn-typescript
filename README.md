@@ -18,4 +18,5 @@ I have created this repo as a part of self-learning and development activity by 
 
 - [Intro to Typescript](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/intro_to_ts/intro_to_typescript.txt)
 - [Convert JS code to TS code](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/using_typescript)
+- [Advantages of using TS]((https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/getting_started/ts_advantages/ts_advantages.txt)
 </details>
