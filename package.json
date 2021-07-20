@@ -3,9 +3,7 @@
   "description": "This repo will cover all the concepts required to learn Typescript from the scratch",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "compile": "tsc app.ts"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kunalashar25/learn-typescript.git"
