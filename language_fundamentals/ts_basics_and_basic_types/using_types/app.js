@@ -1,3 +1,4 @@
+"use strict";
 // Refer /concept_images/ts_basics_and_basic_types/core_types.png
 function add(n1, n2) {
     return n1 + n2;

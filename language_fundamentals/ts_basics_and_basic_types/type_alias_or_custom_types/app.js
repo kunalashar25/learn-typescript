@@ -1,3 +1,4 @@
+"use strict";
 // It can be difficult to always work with union types
 // So we might create a new type that can store this union type
 // We can use another TS feature to do this task which is known as Aliases

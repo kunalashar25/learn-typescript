@@ -1,3 +1,4 @@
+"use strict";
 // function has return types
 // If we do not add return types that is automatically inferred by TS
 // we can see below if we hover on add function name

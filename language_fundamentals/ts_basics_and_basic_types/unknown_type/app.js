@@ -1,3 +1,4 @@
+"use strict";
 // It is good to be aware of this type
 var userInput;
 var userName;

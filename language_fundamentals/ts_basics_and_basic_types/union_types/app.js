@@ -1,3 +1,4 @@
+"use strict";
 // union type is used to be more flexible w.r.t types rather than being rigid
 // can take input of multiple types
 function combine(n1, n2) {
@@ -10,7 +11,7 @@ function combine(n1, n2) {
         result = "" + n1 + n2;
     return result;
 }
-console.log(combine(5, 1.5));
-console.log(combine('Hello', 'TS'));
-console.log(combine('Hello', 15));
-console.log(combine(123, 'TS'));
+console.log(combine(5, 1.5)); // 6.5
+console.log(combine('Hello', 'TS')); // HelloTS
+console.log(combine('Hello', 15)); // Hello15
+console.log(combine(123, 'TS')); // 123TS

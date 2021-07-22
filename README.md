@@ -51,4 +51,5 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 #### List of topics coverd under this section:
 
 -   [Using "Watch Mode"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/using_watch_mode/watch_mode.txt)
+-   [Compile Entire Project](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/compiling_entire_project/compile_entire_project.txt)
 </details>

@@ -1,3 +1,4 @@
+"use strict";
 // never is another type that a function can return
 // this function will never return any value as we are throwing an error
 // Hence, return type of this function should be never instead of void

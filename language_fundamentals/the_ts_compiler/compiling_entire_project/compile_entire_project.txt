@@ -1,0 +1,16 @@
+Problem:
+    • How to compile .ts to .js when we have more than one file
+
+Solution:
+    • to initialize entire repo with typescript
+
+Command to run    
+    • tsc --init 
+        ◦ Run this command on entire project only once
+        ◦ It'll create tsconfig.json file
+    • tsc
+        ◦ to compile all .ts file present in your project.
+        ◦ no need to specify any file now.  
+    • tsc -w OR
+    • tsc --watch
+        ◦ to apply watch mode on all the files

@@ -1,10 +1,11 @@
+"use strict";
 // Tuple type is something which is not present in vanilla JS
 // Tuple type is of fixed length array and of fixed type
 var person1 = {
     name: 'Kunal',
     age: 29,
     hobbies: ['Sports', 'Cooking', 'Reading'],
-    role: [2, 'author']
+    role: [2, 'author'],
 };
 console.log(person1);
 // downside of tuple is we can push more data and switch position of number and string
@@ -15,7 +16,7 @@ var person2 = {
     name: 'Kunal',
     age: 29,
     hobbies: ['Sports', 'Cooking', 'Reading'],
-    role: [2, 'author']
+    role: [2, 'author'],
 };
 person2.role.push('admin'); // push is allowed on tuple, so we cannot resolve this issue.
 // person2.role[1] = 10; Type 'number' is not assignable to type 'string'.ts(2322)

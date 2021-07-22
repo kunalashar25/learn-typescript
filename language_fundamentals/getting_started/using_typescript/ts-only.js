@@ -1,3 +1,4 @@
+"use strict";
 var button = document.querySelector("button");
 var input1 = document.getElementById("num1");
 var input2 = document.getElementById("num2");
@@ -13,3 +14,5 @@ button.addEventListener("click", function () {
 });
 // Compile code using command
 // tsc $fileName.ts
+// After compilation it'll automatically create a new file named ts-only.js
+// use this file in the HTML file as Browser does not support typescript.
