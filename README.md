@@ -6,8 +6,8 @@ I have created this repo as a part of self-learning and development activity by 
 
 ## Project Structure
 
--   `language_fundamentals` → Minute details with examples on each and every topic in typescript
 -   `concept_images` → Structure images for reference
+-   `language_fundamentals` → Minute details with examples on each and every topic in typescript
 
 ## Language Fundamentals
 
@@ -38,5 +38,6 @@ I have created this repo as a part of self-learning and development activity by 
 -   [Type Alias or Custom Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/type_alias_or_custom_types)
 -   [Function Return Types and "void"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/function_return_type_and_void)
 -   [Functions as Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/functions_as_types)
+-   [Functions Types and Callbacks](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/function_types_and_callbacks)
 
 </details>
