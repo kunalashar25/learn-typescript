@@ -35,4 +35,5 @@ I have created this repo as a part of self-learning and development activity by 
 -   [Working with Enums](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/working_with_enums)
 -   [Union Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/union_types)
 -   [Literal Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/literal_types)
+-   [Type Alias or Custom Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/type_alias_or_custom_types)
 </details>

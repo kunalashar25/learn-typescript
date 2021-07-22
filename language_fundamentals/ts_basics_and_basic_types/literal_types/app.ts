@@ -20,5 +20,5 @@ console.log(combine('Hello', 'TS', 'as-text'));
 console.log(combine('15', 15, 'as-number'));
 
 // If we provide invalid input then we'll get compilation error
-console.log(combine('15', 15, 'as-num'));
+// console.log(combine('15', 15, 'as-num'));
 // Argument of type '"as-num"' is not assignable to parameter of type '"as-text" | "as-number"'.ts(2345)
