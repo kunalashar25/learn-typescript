@@ -44,3 +44,11 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [The Unknown Type](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/unknown_type)
 -   [The Never Type](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/never_type)
 </details>
+
+<details>
+  <summary>The Typescript Compiler</summary>
+
+#### List of topics coverd under this section:
+
+-   [Using "Watch Mode"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/using_watch_mode/watch_mode.txt)
+</details>

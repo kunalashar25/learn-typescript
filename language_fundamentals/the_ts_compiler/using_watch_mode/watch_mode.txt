@@ -1,0 +1,14 @@
+Problem:
+    • Whenever we make any changes to .ts file then we need to run tsc app.ts command to generate app.js file and see the effect on browser
+
+Solution
+    • Use watch mode
+    • TS will watch for any file change
+    • If changes found, TS will automatically  recompile.
+
+Command to run
+    • tsc app.ts --watch OR
+    • tsc app.ts -w
+
+Downside
+    • We need to specify the individual file
