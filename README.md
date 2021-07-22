@@ -40,5 +40,5 @@ I have created this repo as a part of self-learning and development activity by 
 -   [Functions as Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/functions_as_types)
 -   [Functions Types and Callbacks](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/function_types_and_callbacks)
 -   [The Unknown Type](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/unknown_type)
-
+-   [The Never Type](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/never_type)
 </details>
