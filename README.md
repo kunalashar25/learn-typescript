@@ -11,6 +11,8 @@ I have created this repo as a part of self-learning and development activity by 
 
 ## Language Fundamentals
 
+Refer [here](https://www.typescriptlang.org/docs/) for Typescript official documentation.
+
 <details>
   <summary>Typescript Introduction</summary>
 
