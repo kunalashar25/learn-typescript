@@ -9,7 +9,7 @@ I have created this repo as a part of self-learning and development activity by 
 -   `language_fundamentals` → Minute details with examples on each and every topic in typescript
 -   `concept_images` → Structure images for reference
 
-### 1. Language Fundamentals
+## Language Fundamentals
 
 <details>
   <summary>Typescript Introduction</summary>
@@ -36,4 +36,6 @@ I have created this repo as a part of self-learning and development activity by 
 -   [Union Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/union_types)
 -   [Literal Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/literal_types)
 -   [Type Alias or Custom Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/type_alias_or_custom_types)
+-   [Function Return Types and "void"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/ts_basics_and_basic_types/function_return_type_and_void)
+
 </details>
