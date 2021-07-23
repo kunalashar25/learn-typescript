@@ -1,0 +1,5 @@
+Problem:
+    • We don't want to compile all the files when we work in a big prject
+
+Solution
+    • To Specify files to include or exclude in the tsconfig.json file

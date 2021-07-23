@@ -52,4 +52,5 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   [Using "Watch Mode"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/using_watch_mode/watch_mode.txt)
 -   [Compile Entire Project](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/compiling_entire_project/compile_entire_project.txt)
+-   [Include and Exclude Files](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/include_and_exclude_files/include_and_exclude.txt)
 </details>
