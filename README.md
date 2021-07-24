@@ -66,7 +66,8 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 #### List of topics coverd under this section:
 
--   [Using "Watch Mode"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/using_watch_mode/watch_mode.txt)
+-   [Let vs Const](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/let_and_const)
+-   [Arrow Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/arrow_functions)
 
 <B>Resources</B>
 
