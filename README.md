@@ -57,7 +57,18 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 <B>Resources</B>
 
 -   Check all configuration related to `tsconfig.json` [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
-
 -   Check `tsc` CLI options [here](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 
+</details>
+
+<details>
+  <summary>Next-Gen Javascript & Typescript</summary>
+
+#### List of topics coverd under this section:
+
+-   [Using "Watch Mode"](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/the_ts_compiler/using_watch_mode/watch_mode.txt)
+
+<B>Resources</B>
+
+-   Refer [here](https://kangax.github.io/compat-table/es6/) to see compatibility table
 </details>
