@@ -69,6 +69,7 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Let vs Const](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/let_and_const)
 -   [Arrow Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/arrow_functions)
 -   [Default Function Value](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/default_function_value)
+-   [The Spread Operator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/the_spread_operator)
 
 <B>Resources</B>
 
