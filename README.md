@@ -84,5 +84,5 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 #### List of topics coverd under this section:
 
 -   [What are classes?](https://github.com/kunalashar25/learn-typescript/blob/main/concept_images/classes_and_interface/object_vs_class.png)
-
+-   [Creating First Class](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/creating_first_class)
 </details>
