@@ -71,6 +71,7 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Default Function Value](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/default_function_value)
 -   [The Spread Operator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/the_spread_operator)
 -   [Rest Parameters](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/rest_parameters)
+-   [Array & Object Destructuring](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/next_gen_js_and_ts/array_and_object_destructuring)
 
 <B>Resources</B>
 
