@@ -86,5 +86,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [What are classes?](https://github.com/kunalashar25/learn-typescript/blob/main/concept_images/classes_and_interface/object_vs_class.png)
 -   [Creating First Class](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/creating_first_class)
 -   [Constructor Function and This keyword](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/constructor_function_and_this_keyword)
+-   [Private and Public Access Modifiers](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/private_and_public_access_modifiers)
 
 </details>
