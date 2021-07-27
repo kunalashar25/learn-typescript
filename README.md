@@ -77,3 +77,12 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   Refer [here](https://kangax.github.io/compat-table/es6/) to see compatibility table
 </details>
+
+<details>
+  <summary>Classes and Interface</summary>
+
+#### List of topics coverd under this section:
+
+-   [What are classes?](https://github.com/kunalashar25/learn-typescript/blob/main/concept_images/classes_and_interface/object_vs_class.png)
+
+</details>
