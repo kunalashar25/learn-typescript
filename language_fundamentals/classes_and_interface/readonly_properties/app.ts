@@ -1,17 +1,15 @@
 class Department {
-	// instead of creating multiple properties to class and setting it from constructor
-	// we can directly use constructor to define those properties
-
 	private employees: string[] = [];
 
-	// executed when the object is created and all properties will be assigned to the class as well
-	constructor(private id: string, public name: string) {}
+	// fields that should not change after initialization
+	constructor(private readonly id: string, public name: string) {}
 
 	describe() {
 		console.log(`Department: ${this.name}`);
 	}
 
 	addEmployee(emp: string) {
+		// this.id = 'D02'; Cannot assign to 'id' because it is a read-only property
 		this.employees.push(emp);
 	}
 

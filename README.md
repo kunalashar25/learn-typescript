@@ -88,5 +88,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Constructor Function and This keyword](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/constructor_function_and_this_keyword)
 -   [Private and Public Access Modifiers](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/private_and_public_access_modifiers)
 -   [Shorthand Initialization](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/shorthand_initialization)
+-   [Readonly Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/readonly_properties)
 
 </details>
