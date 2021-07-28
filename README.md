@@ -90,5 +90,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Shorthand Initialization](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/shorthand_initialization)
 -   [Readonly Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/readonly_properties)
 -   [Inheritance Structure](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/inheritance)
+-   [Overriding Properting and using protected modifier](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/overriding_properties_and_protected_modifier)
 
 </details>
