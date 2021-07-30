@@ -83,17 +83,17 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 #### List of topics coverd under this section:
 
--   [What are classes?](https://github.com/kunalashar25/learn-typescript/blob/main/concept_images/classes_and_interface/object_vs_class.png)
--   [Creating First Class](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/creating_first_class)
--   [Constructor Function and This keyword](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/constructor_function_and_this_keyword)
--   [Private and Public Access Modifiers](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/private_and_public_access_modifiers)
--   [Shorthand Initialization](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/shorthand_initialization)
--   [Readonly Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/readonly_properties)
--   [Inheritance Structure](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/inheritance)
--   [Overriding Properting and using protected modifier](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/overriding_properties_and_protected_modifier)
--   [Getters and Setters](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/getters_and_setters)
--   [Static Methods and Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/static_methods_and_properties)
--   [Abstract Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/abstract_classes)
--   [Singeton Pattern and Private Constructor](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/singleton_and_private_constructor)
+-   [What are classes?](https://github.com/kunalashar25/learn-typescript/blob/main/concept_images/classes_and_interface/classes/object_vs_class.png)
+-   [Creating First Class](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/creating_first_class)
+-   [Constructor Function and This keyword](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/constructor_function_and_this_keyword)
+-   [Private and Public Access Modifiers](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/private_and_public_access_modifiers)
+-   [Shorthand Initialization](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/shorthand_initialization)
+-   [Readonly Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/readonly_properties)
+-   [Inheritance Structure](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/inheritance)
+-   [Overriding Properting and using protected modifier](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/overriding_properties_and_protected_modifier)
+-   [Getters and Setters](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/getters_and_setters)
+-   [Static Methods and Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/static_methods_and_properties)
+-   [Abstract Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/abstract_classes)
+-   [Singeton Pattern and Private Constructor](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/classes/singleton_and_private_constructor)
 
 </details>
