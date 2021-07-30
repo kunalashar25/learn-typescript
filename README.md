@@ -100,4 +100,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 <B>Interfaces</B>
 
+-   [Creating First Interface](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/creating_first_interface)
+
 </details>
