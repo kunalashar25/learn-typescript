@@ -92,5 +92,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Inheritance Structure](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/inheritance)
 -   [Overriding Properting and using protected modifier](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/overriding_properties_and_protected_modifier)
 -   [Getters and Setters](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/getters_and_setters)
+-   [Static Methods and Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/static_methods_and_properties)
 
 </details>
