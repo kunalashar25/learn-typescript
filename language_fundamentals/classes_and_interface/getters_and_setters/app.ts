@@ -1,5 +1,4 @@
 class Departments {
-	// protected is also available in child class
 	protected employees: string[] = [];
 
 	// fields that should not change after initialization
@@ -10,7 +9,6 @@ class Departments {
 	}
 
 	addEmployee(emp: string) {
-		// this.id = 'D02'; Cannot assign to 'id' because it is a read-only property
 		this.employees.push(emp);
 	}
 
@@ -31,10 +29,16 @@ class ITDepartment extends Departments {
 class AccountingDepartment extends Departments {
 	private lastReport: string;
 
-	// use get keyword to keyword a getter and function name can be anything
+	// use get keyword to use a getter and function name can be anything
 	get recentReport() {
 		if (this.lastReport) return this.lastReport;
 		else throw new Error('No Report Found!');
+	}
+
+	// use set keyword and function name can be anything
+	set recentReport(value: string) {
+		if (value) this.addReport(value);
+		else throw new Error('Invalid value provided');
 	}
 
 	constructor(id: string, private reports: string[]) {
@@ -61,6 +65,9 @@ class AccountingDepartment extends Departments {
 }
 
 const acc = new AccountingDepartment('Acc001', ['Day0', 'Day1']);
+
+// using setter to set value
+acc.recentReport = 'New Report';
 
 // need to access it like a property and not like a method
 console.log(acc.recentReport);
