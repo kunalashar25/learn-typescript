@@ -104,5 +104,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Using Interface with Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/using_interface_with_classes)
 -   [Extending Interfaces](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/extending_interfaces)
 -   [Interface as Function Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/interface_as_function_types)
+-   [Optional Parameters and Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/optional_parameters_and_properties)
 
 </details>
