@@ -102,5 +102,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   [Creating First Interface](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/creating_first_interface)
 -   [Using Interface with Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/using_interface_with_classes)
+-   [Extending Interfaces](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/extending_interfaces)
 
 </details>

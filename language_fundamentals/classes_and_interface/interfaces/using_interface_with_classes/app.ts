@@ -1,5 +1,5 @@
 interface Greetable {
-	name: string;
+	name: string; // variable can also be readonly in interfaces
 	greet(phrase: string): void;
 }
 
