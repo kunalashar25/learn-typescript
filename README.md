@@ -114,4 +114,5 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 #### List of topics coverd under this section:
 
 -   [Intersection Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/intersection_types)
+-   [Type Guards](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/type_guards)
 </details>
