@@ -107,3 +107,11 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Optional Parameters and Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/classes_and_interface/interfaces/optional_parameters_and_properties)
 
 </details>
+
+<details>
+  <summary>Advanced Types</summary>
+
+#### List of topics coverd under this section:
+
+-   [Intersection Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/intersection_types)
+</details>
