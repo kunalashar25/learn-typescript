@@ -118,5 +118,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Discriminated Unions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/discriminated_unions)
 -   [Type Casting](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/type_casting)
 -   [Index Properties](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/index_properties)
+-   [Function Overloads](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/function_overloads)
 
 </details>
