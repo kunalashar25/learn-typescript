@@ -115,4 +115,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   [Intersection Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/intersection_types)
 -   [Type Guards](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/type_guards)
+-   [Discriminated Unions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/discriminated_unions)
+
 </details>
