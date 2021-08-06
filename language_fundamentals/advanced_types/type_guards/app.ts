@@ -43,3 +43,37 @@ function printEmployeeInformation(emp: UnknownEmployee) {
 }
 
 printEmployeeInformation(e1);
+
+// when working with classes, we can use instanceof typeguard
+class Car {
+	drive() {
+		console.log(`driving..`);
+	}
+}
+
+class Truck {
+	drive() {
+		console.log(`driving truck..`);
+	}
+
+	loadCargo(amount: number) {
+		console.log(`load ${amount} cargo`);
+	}
+}
+
+type Vehicle = Car | Truck;
+
+const v1 = new Car();
+const v2 = new Truck();
+
+function useVehicle(vehicle: Vehicle) {
+	vehicle.drive();
+
+	// check if method exist
+	if ('loadCargo' in vehicle) vehicle.loadCargo(2);
+
+	// OR
+
+	// check if it is an instance of that class
+	if (vehicle instanceof Truck) vehicle.loadCargo(5);
+}
