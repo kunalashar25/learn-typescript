@@ -133,5 +133,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Creating a Generic Function](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/creating_a_generic_function)
 -   [Working with Constraints](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/working_with_constraints)
 -   [Another Generic Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/another_generic_function)
+-   [The "keyof" constraint](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/the_key_of_constraint)
 
 </details>
