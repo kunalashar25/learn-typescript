@@ -132,5 +132,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [What are Generics & Built-In Generics](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/what_are_generics)
 -   [Creating a Generic Function](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/creating_a_generic_function)
 -   [Working with Constraints](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/working_with_constraints)
+-   [Another Generic Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/another_generic_function)
 
 </details>
