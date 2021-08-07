@@ -130,5 +130,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 #### List of topics coverd under this section:
 
 -   [What are Generics & Built-In Generics](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/what_are_generics)
+-   [Creating a Generic Function](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/creating_a_generic_function)
 
 </details>
