@@ -141,4 +141,8 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   [The Generic Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/classes/introduction)
 
+<B>Utility Types</B>
+
+-   [Partial Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/utility_types/partial_types)
+
 </details>
