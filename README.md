@@ -150,3 +150,12 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 -   Learn more about Generics [here](https://www.typescriptlang.org/docs/handbook/2/generics.html)
 </details>
+
+<details>
+  <summary>Decorators</summary>
+
+#### List of topics coverd under this section:
+
+-   [First Class Decorator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/first_class_decorator)
+
+</details>
