@@ -139,4 +139,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 <B>Classes</B>
 
+-   [The Generic Classes](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/classes/introduction)
+
 </details>
