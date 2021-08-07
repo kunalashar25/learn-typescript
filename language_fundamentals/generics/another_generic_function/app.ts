@@ -15,4 +15,4 @@ console.log(countAndDescribe('Hey'));
 console.log(countAndDescribe(['Sports', 'Cooking']));
 
 // invalid example
-console.log(countAndDescribe(2));
+// console.log(countAndDescribe(2)); Argument of type 'number' is not assignable to parameter of type 'Lengthy'
