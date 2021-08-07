@@ -123,3 +123,12 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Nullish Coalescing](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/advanced_types/nullish_coalescing)
 
 </details>
+
+<details>
+  <summary>Generics</summary>
+
+#### List of topics coverd under this section:
+
+-   [What are Generics & Built-In Generics](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/what_are_generics)
+
+</details>
