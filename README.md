@@ -157,5 +157,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 #### List of topics coverd under this section:
 
 -   [First Class Decorator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/first_class_decorator)
+-   [Working with Decorator Factories](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/decorator_factories)
 
 </details>
