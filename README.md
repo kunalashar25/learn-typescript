@@ -144,5 +144,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 <B>Utility Types</B>
 
 -   [Partial Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/utility_types/partial_types)
+-   [Read-only Types](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/utility_types/readonly_types)
 
 </details>
