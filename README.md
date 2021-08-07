@@ -129,10 +129,14 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 
 #### List of topics coverd under this section:
 
--   [What are Generics & Built-In Generics](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/what_are_generics)
--   [Creating a Generic Function](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/creating_a_generic_function)
--   [Working with Constraints](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/working_with_constraints)
--   [Another Generic Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/another_generic_function)
--   [The "keyof" constraint](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/the_key_of_constraint)
+<B>Functions</B>
+
+-   [What are Generics & Built-In Generics](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/functions/what_are_generics)
+-   [Creating a Generic Function](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/functions/creating_a_generic_function)
+-   [Working with Constraints](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/functions/working_with_constraints)
+-   [Another Generic Functions](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/functions/another_generic_function)
+-   [The "keyof" constraint](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/generics/functions/the_key_of_constraint)
+
+<B>Classes</B>
 
 </details>
