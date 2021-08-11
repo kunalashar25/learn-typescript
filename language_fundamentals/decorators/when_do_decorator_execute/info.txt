@@ -1,0 +1,5 @@
+• Decorator are executed before object instantiation
+• All the decorators are executed when we define the class
+• They do not run at runtime
+• We can use decorator to do behind the scene setup when the class is defined
+• Decorators are not event listeners
