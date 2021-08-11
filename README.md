@@ -161,5 +161,6 @@ Refer [here](https://www.typescriptlang.org/docs/) for Typescript official docum
 -   [Building More useful Decorator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/building_more_useful_decorator)
 -   [Adding multiple Decorators](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/adding_multiple_decorators)
 -   [Creating property Decorators](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/property_decorator)
+-   [Accessor and Parameter Decorator](https://github.com/kunalashar25/learn-typescript/blob/main/language_fundamentals/decorators/accessor_and_parameter_decorator)
 
 </details>
